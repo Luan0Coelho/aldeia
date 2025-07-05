@@ -1,2 +1,20 @@
-Projeto de estudos que fiz utilizando HTML, CSS E JAVA SCRIPT. O objetivo do projeto era criar esse layout de cartas de personagens ficticios, porém modifiquei para fazer uma lembrança para meu grupo de amigos.
-![Visual do site](https://luan0coelho.github.io/aldeia/
+# 🌟 Aldeia dos Poggers
+
+Bem-vindo ao projeto **Aldeia dos Poggers**, um site feito sobre estudos de HTML, CSS e JavaScript, homenageando amizades incríveis.
+
+## 🔗 Acesse o site
+
+👉 [Clique aqui para visitar](https://luan0coelho.github.io/aldeia/)
+
+## 🖼️ Visual do site
+
+![Preview do site](https://luan0coelho.github.io/aldeia/src/Images/gustavo.png)
+
+## 🚀 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📁 Estrutura do projeto
+
