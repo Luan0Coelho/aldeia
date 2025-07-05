@@ -8,7 +8,7 @@ Bem-vindo ao projeto **Aldeia dos Poggers**, um site feito sobre estudos de HTML
 
 ## 🖼️ Visual do site
 
-![Preview do site](https://luan0coelho.github.io/aldeia/src/Images/gustavo.png)
+![Preview do site](https://luan0coelho.github.io/aldeia/assets/preview.png)
 
 ## 🚀 Tecnologias utilizadas
 
